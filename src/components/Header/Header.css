@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+    background-color:cyan;
+}
+/* header headings style */
+
+.header h1{
+    color: black;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+.header h4{
+    font-style: italic;
+}
+.header h3{
+    color: cyan;
+    background-color: black;
+}
